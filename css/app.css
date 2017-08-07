@@ -24,6 +24,11 @@ body {
     font-size: 30px;
 
 }
+.taip{
+
+  
+    font-size: 30px;
+}
 
 .logo b {
     font-size: 47px;
@@ -34,7 +39,7 @@ body {
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.32);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.32);
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.32);
-    padding: 24px;
+    padding: 23px 24px 155px 24px;
     border-radius: 5px;
 }
 
@@ -122,7 +127,7 @@ input {
 button {
     color: white;
     background-color: #524667;
-    width: 100px;
+    width: 169px;
     height: 35px;
     border-radius: 5px;
     border: none;
